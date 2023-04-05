@@ -10,17 +10,17 @@ The objective was to analyze the sales and revenue trend to improve their sales 
 Power BI
 
 ## Business Questions
-Question 1: What was the best month for sales? How much was earned that month?
-Question 2: What region has the highest sales?
-Question 3: What time should we display advertisements to maximize likehood of customers buying products?
-Question 4: What products are most often sold?
-Question 5: What product sold the most? Why do you think it sold the most?
-Question 6: Which retailer sold the most product?
-Question 7: Which sales method generated the highest sales?
+1. What was the best month for sales? How much was earned that month?
+2. What region has the highest sales?
+3. What time should we display advertisements to maximize likehood of customers buying products?
+4. What products are most often sold?
+5. What product sold the most? Why do you think it sold the most?
+6. Which retailer sold the most product?
+7. Which sales method generated the highest sales?
 
 ## KPIs
-Total sales 
-Total profit 
+1. Total sales 
+2. Total profit 
 
 ## Dashboards
 ![Adidas Sales Dashboard](https://user-images.githubusercontent.com/115374063/230192582-b281333c-4074-44ed-aeee-2ca9a5fd4ead.png)
