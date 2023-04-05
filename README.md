@@ -1,7 +1,7 @@
 # Sales-Analysis-PowerBI
 
-## Introduction
-Sales Analysis has gained importance to meet increasing competition and the need for improved distribution methods to reduce cost and increase profits. I performed data analysis and visualization and develop a dashboard to help make data-driven decisions to increase the company's sales and revenue to complete the project. 
+## About the project
+Sales Analysis has gained importance to meet increasing competition and the need for improved distribution methods to reduce cost and increase profits. I performed exploratory data analysis and visualization and develop a dashboard to help make data-driven decisions to increase the company's sales and revenue to complete the project. 
 
 ## Problem Statement
 The objective was to analyze the sales and revenue trend to improve their sales performance and identify major markets from a sales and revenue perspective.
@@ -9,3 +9,18 @@ The objective was to analyze the sales and revenue trend to improve their sales 
 ## Tech Stack
 Power BI
 
+## Business Questions
+Question 1: What was the best month for sales? How much was earned that month?
+Question 2: What region has the highest sales?
+Question 3: What time should we display advertisements to maximize likehood of customers buying products?
+Question 4: What products are most often sold?
+Question 5: What product sold the most? Why do you think it sold the most?
+Question 6: Which retailer sold the most product?
+Question 7: Which sales method generated the highest sales?
+
+## KPIs
+Total sales of the company
+Total profit of the company
+Department-wise and Position-wise Average Salary
+Department-wise and Position-wise Gender Distribution
+🔹 Dashboards
