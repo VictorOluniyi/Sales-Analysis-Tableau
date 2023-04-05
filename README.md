@@ -22,5 +22,5 @@ Question 7: Which sales method generated the highest sales?
 Total sales 
 Total profit 
 
-Dashboards
+## Dashboards
 ![Adidas Sales Dashboard](https://user-images.githubusercontent.com/115374063/230192582-b281333c-4074-44ed-aeee-2ca9a5fd4ead.png)
