@@ -19,8 +19,8 @@ Question 6: Which retailer sold the most product?
 Question 7: Which sales method generated the highest sales?
 
 ## KPIs
-Total sales of the company
-Total profit of the company
-Department-wise and Position-wise Average Salary
-Department-wise and Position-wise Gender Distribution
-🔹 Dashboards
+Total sales 
+Total profit 
+
+Dashboards
+![Adidas Sales Dashboard](https://user-images.githubusercontent.com/115374063/230192582-b281333c-4074-44ed-aeee-2ca9a5fd4ead.png)
