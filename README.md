@@ -1,4 +1,4 @@
-# Sales-Analysis-PowerBI
+# Sales-Analysis-Tableau
 
 ## About the project
 Sales Analysis has gained importance to meet increasing competition and the need for improved distribution methods to reduce cost and increase profits. I performed exploratory data analysis and visualization and develop a dashboard to help make data-driven decisions to increase the company's sales and revenue to complete the project. 
