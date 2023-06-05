@@ -7,7 +7,7 @@ Sales Analysis has gained importance to meet increasing competition and the need
 The objective was to analyze the sales and revenue trend to improve their sales performance and identify major markets from a sales and revenue perspective.
 
 ## Tech Stack
-Power BI
+Tableau
 
 ## Business Questions
 1. What was the best month for sales? How much was earned that month?
